@@ -1,0 +1,36 @@
+/*CSS (styles.css)*/
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Espaço entre a imagem e o texto */
+    padding: 20px;
+}
+
+.imagem {
+    max-width: 200px; /* Tamanho máximo da imagem */
+    height: auto;
+}
+
+.texto {
+    max-width: 600px; /* Largura máxima do texto */
+}
+
+.texto h1 {
+    margin-top: 0;
+}
+
+.texto p {
+    margin: 0;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
