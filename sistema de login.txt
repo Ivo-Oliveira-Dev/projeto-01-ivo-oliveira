@@ -1,1 +1,3 @@
-um novo sitema de login 
+um novo sitema de login
+recuperar senha 
+digite sua idade
